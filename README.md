@@ -1,83 +1,71 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+# My Portfolio Website
 
-<br/>
+Welcome to my personal portfolio website! This site highlights my projects, skills, and resume. With a clean and modern design, it offers an optimal user experience across all devices.
 
-<center>
+## Technologies Used
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
-
-</center>
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
-
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
-
-## Built With
-
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
-
-This project was built using these technologies.
+This portfolio was developed using the following technologies:
 
 - React.js
 - Node.js
 - Express.js
 - CSS3
-- VsCode
-- Vercel
+- VSCode
+- Deployed on Vercel
 
-## Features
+## Key Features
 
-**📖 Multi-Page Layout**
+- 📖 **Multi-Page Structure**: The site is divided into several pages to showcase my work, skills, and experience.
+- 🎨 **Customizable Styling**: I used React-Bootstrap along with custom CSS to make the site visually appealing and easy to modify.
+- 📱 **Responsive Design**: The site is designed to work beautifully on all screen sizes, from desktops to mobile phones.
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+## Prerequisites
 
-**📱 Fully Responsive**
+Before you can run this project locally, make sure you have the following installed on your machine:
 
-## Getting Started
+- Node.js (v14 or later)
+- NPM (Node Package Manager)
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+If you don’t have them yet, you can download and install them from the official websites:
 
-## 🛠 Installation and Setup Instructions
+- [Node.js](https://nodejs.org/)
+- [NPM](https://www.npmjs.com/)
 
-1. Installation: `npm install`
+## Installation and Setup
 
-2. In the project directory, you can run: `npm start`
+To get this project up and running locally, follow these steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+1. **Download the ZIP**: 
+   Download the ZIP file of this repository.
 
-## Usage Instructions
+2. **Extract the ZIP**: 
+   Unzip the file to a location of your choice on your computer.
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+3. **Navigate to the Project Folder**: 
+   Open your terminal/command prompt and navigate to the folder where you extracted the ZIP.
 
-### Show your support
+   ```bash
+   cd path/to/your/extracted-folder
+   ```
+4. **Install Dependencies**: Run the following command to install all the necessary dependencies:
 
-Give a ⭐ if you like this website!
+   ```bash
+   npm install
+   ```
+5. **Run the Project Locally**: After the dependencies are installed, start the development server:
+   ```bash
+   npm start
+   ```
+   Your site should now be live at http://localhost:3000!
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
-# portfolio
-# portfolio
-# portfolio
-# portfolio
-# portfolio
-# portfolio
-# portfolio
+## Contributing
+
+I’m open to suggestions and contributions! Feel free to report bugs, request new features, or improve the project by submitting a pull request.
+
+## License
+
+This project is open-source, and you're free to modify it to suit your needs.
+
+## Support
+
+If you like this project, please consider starring it ⭐ to show your support!
