@@ -24,6 +24,16 @@ function Projects() {
             />
           </Col>
 
+
+            <Col md={4} className="project-card">
+            <ProjectCard
+              isBlog={false}
+              title="Healthcare Data Analytics using Excel, SQL and Tableau"
+              description="I developed an interactive Healthcare Analytics Dashboard to analyze key metrics like patient demographics, doctor-to-patient ratios, admission types, and medical conditions. Using SQL, Excel, and Tableau, I ensured efficient data extraction, cleaning, and visualization, enabling stakeholders to make informed decisions. The dashboard optimized healthcare resource allocation by identifying trends in test results, medication usage, and patient distribution. Additionally, it enabled real-time tracking of healthcare metrics, improving hospital management, operational efficiency, and patient care strategies."
+              ghLink="https://github.com/rhydhamp1421/Healthcare-Data-Analytics"          
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               isBlog={false}
@@ -33,14 +43,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              isBlog={false}
-              title="Sales Insights using Power BI and SQL"
-              description="I developed an interactive Power BI dashboard to visualize AtliQ hardware sales trends, helping stakeholders identify opportunities for a projected 7% revenue increase. By integrating SQL Server with Power BI and leveraging SQL and Power Query, I ensured efficient data extraction and cleaning. Additionally, I optimized data modeling with Power Pivot, enhancing dashboard performance and reporting efficiency for faster decision-making."
-              ghLink="https://github.com/rhydhamp1421?tab=repositories"          
-            />
-          </Col>
+
         </Row>
       </Container>
     </Container>
